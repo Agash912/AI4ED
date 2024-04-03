@@ -6,7 +6,8 @@ Chat with any Website is a project created by Agash Uthayasuriyan that utilizes 
 GPTs such as ChatGPT are unable to give information about latest updates happening in the world. When there is a tech. product or a news that is released, current GPTs are unable to give reliable information about the same. This project aims to bridge the gap and presents a conversational bot between the user and the website. This would be beneficial for the user to quickly pull information from the website without spending much time in reading the entire content.
 
 ## Architecture Diagram
-![HTML-rag-diagram](https://github.com/Agash912/AI4ED/assets/112348271/9c68bdab-a733-4b33-861c-3106019d1c98)
+![B7A4F24E-E872-46D9-A19C-D424D82E7CB2 2](https://github.com/Agash912/AI4ED/assets/112348271/82175a99-3855-4687-adfa-912807fb1ef0)
+
 
 
 ## Technologies Used
